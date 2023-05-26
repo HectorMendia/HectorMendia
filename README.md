@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hector</a></h1>
 <h3 align="center">A passionate GIS developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hectormendia&label=Profile%20views&color=brightgreen&style=flat" alt="hectormendia" /> </p>
 
-<a target="_blank" align="center">
+<p align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+</p>
 
 - 🔭 I’m currently Working on Web Applications for Data Exploration and Analisys
 
